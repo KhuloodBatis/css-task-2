@@ -1,5 +1,3 @@
 the first is task 
 the second my solution 
-<details><summary>https://ibb.co/DzHzmch</summary>
-
-</details>
+[url=https://ibb.co/DzHzmch][img]https://i.ibb.co/vV6Vfyp/Screenshot-2022-06-29-121951.png[/img][/url]
