@@ -1,4 +1,4 @@
-<h1 >task-2 CSS  </h1>
+<h1 style="color:red">task-2 CSS  </h1>
 <h3>the task 
 _________ my solution  </h3>
 <br>
